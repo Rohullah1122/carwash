@@ -15,7 +15,7 @@ A responsive one page website for a car wash and detailing business: services, r
 ## Sections
 
 - **Home:** hero banner with the business tagline
-- **Services:** car wash, detailing, window tinting, wheel polish and wheel painting
+- **Services:** photo carousel of car washing, window tinting and wheel polishing
 - **Feedback:** 5 star rating form with a chance to win a free service
 - **Appointment:** name, phone number, time and date
 - **Contact:** contact form and business details
